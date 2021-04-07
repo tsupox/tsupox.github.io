@@ -1,5 +1,7 @@
 # README
 
+node 11.15.0
+
 ```
 npm init
 npm install -g hexo

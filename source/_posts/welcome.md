@@ -4,10 +4,11 @@ date: 2021-04-04 19:18:12
 tags:
   - test
   - test2
-featured_image : images/neko-king.png
+cover_index: /images/neko-king.png
+# cover_detail: /images/neko-king.png
 ---
 
-# Welcome to tsupox.com!
+## Welcome to tsupox.com!
 
 こちらはテスト投稿です。
 改行確認。

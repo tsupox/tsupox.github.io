@@ -98,7 +98,9 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: Gradient
+# theme: Gradient
+# theme: element  # 画像が表示されない
+theme: phantom
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,3 +109,13 @@ deploy:
   repo: git@github.com:tsupox/tsupox.github.io.git
   branch: gh-pages
   message: update
+
+ 
+# style settings
+node_sass:
+  debug: false
+  outputStyle: nested
+  # outputStyle: compressed
+  precision: 5
+  sourceComments: false
+  # includePaths: ['./node_modules/normalize-scss/sass/','./node_modules/reset-css/']

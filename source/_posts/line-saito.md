@@ -2,9 +2,9 @@
 title: LINE スタンプ さいとうさん（心の声）
 date: 2020-03-01 23:00:00
 tags:
-    - 'LINE スタンプ'
-    - 'さいとうさん'
-cover_index: "/images/line-saito/line-saito-40.png"
+    - LINEスタンプ
+    - さいとうさん
+cover_index: "/images/line-saito/line-saito-main.png"
 cover_detail: "/images/line-saito/line-saito.png"
 ---
 

@@ -4,7 +4,11 @@ date: 2020-03-01 23:10:00
 tags:
     - LINEスタンプ
     - さいとうさん
-    - マラウイ
+    - マラウイ(Malawi)
+    - アフリカ(Africa)
+    - チェワ語
+    - トゥンブカ語
+    - Zikomo
 cover_index: "/images/line-saito-chichewa/line-saito-chichewa-main.png"
 cover_detail: "/images/line-saito-chichewa/line-saito-chichewa.png"
 ---

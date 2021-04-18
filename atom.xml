@@ -6,7 +6,7 @@
   <link href="http://tsupox.github.io/atom.xml" rel="self"/>
   
   <link href="http://tsupox.github.io/"/>
-  <updated>2021-04-11T15:47:09.449Z</updated>
+  <updated>2021-04-17T09:17:05.870Z</updated>
   <id>http://tsupox.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Welcome</title>
-    <link href="http://tsupox.github.io/2021/04/04/welcome/"/>
-    <id>http://tsupox.github.io/2021/04/04/welcome/</id>
+    <link href="http://tsupox.github.io/welcome/"/>
+    <id>http://tsupox.github.io/welcome/</id>
     <published>2021-04-04T10:18:12.000Z</published>
-    <updated>2021-04-11T15:47:09.449Z</updated>
+    <updated>2021-04-17T09:17:05.870Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Welcome-to-tsupox-com"><a href="#Welcome-to-tsupox-com" class="headerlink" title="Welcome to tsupox.com!"></a>Welcome to tsupox.com!</h2><p>こちらはテスト投稿です。<br>改行確認。</p><p>絵の確認。<br><img src="/images/neko-king.png"></p>]]></content>
     
@@ -41,11 +41,41 @@
   </entry>
   
   <entry>
+    <title>マラウイあるある Vol.1-20</title>
+    <link href="http://tsupox.github.io/malawi-aruaru1/"/>
+    <id>http://tsupox.github.io/malawi-aruaru1/</id>
+    <published>2020-03-09T14:00:00.000Z</published>
+    <updated>2021-04-18T17:18:02.133Z</updated>
+    
+    <content type="html"><![CDATA[<p>毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。</p><div class="tiles">    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-001.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-002.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-003.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-003-omake.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-004.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-005.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-006.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-007.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-008.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-009.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-010.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-011.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-012.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-013.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-014.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-015.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-016.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-017.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-018.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-019.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-020.png"></span></article></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。&lt;/p&gt;
+&lt;div class=&quot;tiles&quot;&gt;
+    &lt;article&gt;&lt;span class=&quot;post-image&quot;&gt;&lt;img src=&quot;/images/malawi-aruaru/malawi-aruar</summary>
+      
+    
+    
+    
+    
+    <category term="マラウイ(Malawi)" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    
+    <category term="アフリカ(Africa)" scheme="http://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    
+    <category term="お絵かき" scheme="http://tsupox.github.io/tags/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D/"/>
+    
+    <category term="マラウイあるある" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>そのべ式ユニット（そのべ式ユニット）</title>
-    <link href="http://tsupox.github.io/2020/03/06/origami-sonobe-module/"/>
-    <id>http://tsupox.github.io/2020/03/06/origami-sonobe-module/</id>
+    <link href="http://tsupox.github.io/origami-sonobe-module/"/>
+    <id>http://tsupox.github.io/origami-sonobe-module/</id>
     <published>2020-03-06T14:00:00.000Z</published>
-    <updated>2021-04-15T16:42:34.407Z</updated>
+    <updated>2021-04-17T09:16:56.081Z</updated>
     
     <content type="html"><![CDATA[<p>ユニット式折り紙で一番メジャーだと思われる、そのべ式ユニットの折り方。<br>動画のサムネイルにある、くす玉やサイコロを組み立てるための1ピースです。<br>慣れると20秒で折れます。</p><div class="video-container"><iframe src="https://www.youtube.com/embed/3clzbcrBhvc" frameborder="0" loading="lazy" allowfullscreen></iframe></div><hr><h3 id="必要ユニット数早見表"><a href="#必要ユニット数早見表" class="headerlink" title="必要ユニット数早見表"></a>必要ユニット数早見表</h3><table><thead><tr><th>種類</th><th align="center">必要なユニット数</th></tr></thead><tbody><tr><td>座布団</td><td align="center">2</td></tr><tr><td>三角形・両三角錐</td><td align="center">3</td></tr><tr><td>立方体</td><td align="center">6</td></tr><tr><td>くす玉（小）</td><td align="center">12</td></tr><tr><td>くす玉（大）</td><td align="center">30</td></tr></tbody></table><h3 id="■-YouTube-チャンネル-tsupo-chanel-のご紹介"><a href="#■-YouTube-チャンネル-tsupo-chanel-のご紹介" class="headerlink" title="■ YouTube チャンネル [ tsupo chanel ] のご紹介"></a>■ YouTube チャンネル [ <a href="https://www.youtube.com/channel/UCCQD7km8Tg4a-eCxBw6Hgug">tsupo chanel</a> ] のご紹介</h3><p><a href="https://www.youtube.com/channel/UCCQD7km8Tg4a-eCxBw6Hgug"><img src="/images/tsupo_chanel.svg" alt="tsupo chanel"></a><br> <a href="https://www.youtube.com/channel/UCCQD7km8Tg4a-eCxBw6Hgug">tsupo chanel</a></p>]]></content>
     
@@ -71,10 +101,10 @@
   
   <entry>
     <title>LINEスタンプ さいとーさんアフリカまったり生活</title>
-    <link href="http://tsupox.github.io/2020/03/04/line-saito-africa/"/>
-    <id>http://tsupox.github.io/2020/03/04/line-saito-africa/</id>
+    <link href="http://tsupox.github.io/line-saito-africa/"/>
+    <id>http://tsupox.github.io/line-saito-africa/</id>
     <published>2020-03-04T14:20:00.000Z</published>
-    <updated>2021-04-14T16:41:16.662Z</updated>
+    <updated>2021-04-17T09:16:30.567Z</updated>
     
     <content type="html"><![CDATA[<p>さいとうさんもアフリカ生活になれてきたようで、<br>現地の「色々」を体験しています。<br>電気がなかったり、水がでなかったり。<br>そんな、日本にはない「色々」をスタンプに。</p><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「さいとーさん アフリカまったり生活」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/7200014/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/7200014/ja">https://store.line.me/stickershop/product/7200014/ja</a></p><h3 id="■-Whatsappスタンプ"><a href="#■-Whatsappスタンプ" class="headerlink" title="■ Whatsappスタンプ"></a>■ Whatsappスタンプ</h3><p>「さいとうさん in Malawi - Stickers for WhatsApp」<br>ダウンロード （Androidのみ）<br><a href="https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp">https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp</a></p><p><a href='https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&hl=ja_jp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' style="width:200px" /></a></p>]]></content>
     
@@ -100,19 +130,19 @@
   
   <entry>
     <title>LINEスタンプ さいとうさん in マラウイ２（チェワ語＆トゥンブカ語）</title>
-    <link href="http://tsupox.github.io/2020/03/04/line-saito-chichewa2/"/>
-    <id>http://tsupox.github.io/2020/03/04/line-saito-chichewa2/</id>
+    <link href="http://tsupox.github.io/line-saito-chichewa2/"/>
+    <id>http://tsupox.github.io/line-saito-chichewa2/</id>
     <published>2020-03-04T14:10:00.000Z</published>
-    <updated>2021-04-14T16:40:17.991Z</updated>
+    <updated>2021-04-17T09:16:44.085Z</updated>
     
-    <content type="html"><![CDATA[<p>さいとうさん in マラウイ 第2段。</p><a href="/2020/03/01/line-saito-chichewa/" title="第1弾">第1弾</a> と同じく、マラウイ現地語のチェワ語と、マラウイ北部で話される現地語トゥンブカ語のセット。<p>Whatsapp のスタンプセットにも入ってます。（現在Androidのみ）</p><p>The second stickers set of Mr.Saito in Malawi. This set is same as previous vol.1 set, for Chichewa; the local language of Malawi and Chitumbuka; the local language of northern part of Malawi.<br>These are in Whatsapp stickers set as well.</p><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「さいとうさん in マラウイ 2」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/9020098/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/9020098/ja">https://store.line.me/stickershop/product/9020098/ja</a></p><h3 id="■-Whatsappスタンプ"><a href="#■-Whatsappスタンプ" class="headerlink" title="■ Whatsappスタンプ"></a>■ Whatsappスタンプ</h3><p>「さいとうさん in Malawi - Stickers for WhatsApp」<br>ダウンロード （Androidのみ）<br><a href="https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp">https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp</a></p><p><a href='https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&hl=ja_jp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' style="width:200px" /></a></p>]]></content>
+    <content type="html"><![CDATA[<p>さいとうさん in マラウイ 第2段。</p><a href="/line-saito-chichewa/" title="第1弾">第1弾</a> と同じく、マラウイ現地語のチェワ語と、マラウイ北部で話される現地語トゥンブカ語のセット。<p>Whatsapp のスタンプセットにも入ってます。（現在Androidのみ）</p><p>The second stickers set of Mr.Saito in Malawi. This set is same as previous vol.1 set, for Chichewa; the local language of Malawi and Chitumbuka; the local language of northern part of Malawi.<br>These are in Whatsapp stickers set as well.</p><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「さいとうさん in マラウイ 2」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/9020098/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/9020098/ja">https://store.line.me/stickershop/product/9020098/ja</a></p><h3 id="■-Whatsappスタンプ"><a href="#■-Whatsappスタンプ" class="headerlink" title="■ Whatsappスタンプ"></a>■ Whatsappスタンプ</h3><p>「さいとうさん in Malawi - Stickers for WhatsApp」<br>ダウンロード （Androidのみ）<br><a href="https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp">https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp</a></p><p><a href='https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&hl=ja_jp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' style="width:200px" /></a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;さいとうさん in マラウイ 第2段。&lt;/p&gt;
-&lt;a href=&quot;/2020/03/01/line-saito-chichewa/&quot; title=&quot;第1弾&quot;&gt;第1弾&lt;/a&gt; と同じく、マラウイ現地語のチェワ語と、マラウイ北部で話される現地語トゥンブカ語のセット。
-&lt;p&gt;Wh</summary>
+&lt;a href=&quot;/line-saito-chichewa/&quot; title=&quot;第1弾&quot;&gt;第1弾&lt;/a&gt; と同じく、マラウイ現地語のチェワ語と、マラウイ北部で話される現地語トゥンブカ語のセット。
+&lt;p&gt;Whatsapp のスタン</summary>
       
     
     
@@ -136,18 +166,18 @@
   
   <entry>
     <title>LINEスタンプ　かとうさん（心の声）</title>
-    <link href="http://tsupox.github.io/2020/03/04/line-kato/"/>
-    <id>http://tsupox.github.io/2020/03/04/line-kato/</id>
+    <link href="http://tsupox.github.io/line-kato/"/>
+    <id>http://tsupox.github.io/line-kato/</id>
     <published>2020-03-04T14:00:00.000Z</published>
-    <updated>2021-04-14T16:39:09.833Z</updated>
+    <updated>2021-04-17T09:16:23.184Z</updated>
     
-    <content type="html"><![CDATA[<p>さいとうさんシリーズ、さいとうさんの彼女/よき友の「かとうさん」です。</p><p>女の子です。髪の毛がはねてます。 <a href="/2020/03/01/line-saito/" title="LINE スタンプ さいとうさん（心の声）">LINE スタンプ さいとうさん（心の声）</a> と結構おそろいでリンクしています。</p><img src="/images/line-kato/line-kato-linked-saito.png" class="image main"><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「かとうさん（心の声）」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/4979876/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/4979876/ja">https://store.line.me/stickershop/product/4979876/ja</a></p>]]></content>
+    <content type="html"><![CDATA[<p>さいとうさんシリーズ、さいとうさんの彼女/よき友の「かとうさん」です。</p><p>女の子です。髪の毛がはねてます。 <a href="/line-saito/" title="LINE スタンプ さいとうさん（心の声）">LINE スタンプ さいとうさん（心の声）</a> と結構おそろいでリンクしています。</p><img src="/images/line-kato/line-kato-linked-saito.png" class="image main"><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「かとうさん（心の声）」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/4979876/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/4979876/ja">https://store.line.me/stickershop/product/4979876/ja</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;さいとうさんシリーズ、さいとうさんの彼女/よき友の「かとうさん」です。&lt;/p&gt;
-&lt;p&gt;女の子です。髪の毛がはねてます。 &lt;a href=&quot;/2020/03/01/line-saito/&quot; title=&quot;LINE スタンプ さいとうさん（心の声）&quot;&gt;LINE スタンプ さいと</summary>
+&lt;p&gt;女の子です。髪の毛がはねてます。 &lt;a href=&quot;/line-saito/&quot; title=&quot;LINE スタンプ さいとうさん（心の声）&quot;&gt;LINE スタンプ さいとうさん（心の声）&lt;/a</summary>
       
     
     
@@ -163,10 +193,10 @@
   
   <entry>
     <title>LINEスタンプ　イロトリドリ</title>
-    <link href="http://tsupox.github.io/2020/03/03/line-irotoridori/"/>
-    <id>http://tsupox.github.io/2020/03/03/line-irotoridori/</id>
+    <link href="http://tsupox.github.io/line-irotoridori/"/>
+    <id>http://tsupox.github.io/line-irotoridori/</id>
     <published>2020-03-03T14:00:00.000Z</published>
-    <updated>2021-04-13T16:43:49.136Z</updated>
+    <updated>2021-04-17T09:16:14.529Z</updated>
     
     <content type="html"><![CDATA[<p>「ありがとう」「OK」「よろしく」「YES」だけを集めた、色んな絵柄のスタンプセット。</p><blockquote><p>母親が、地元のなにかの役員をやってたときに、<br>「LINEで最後にスタンプでしめるけどいつも同じものになってしまう」<br>と言っていたので、それを受けて作成。<br>いろいろな絵柄であれば使いやすいし、一個のラインで終わるからいいのでは？ということで作りました。</p></blockquote><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「イイトコドリ（ありがとう/OK/よろしく）」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/1422045/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/1422045/ja">https://store.line.me/stickershop/product/1422045/ja</a></p>]]></content>
     
@@ -187,10 +217,10 @@
   
   <entry>
     <title>A4で作る箱</title>
-    <link href="http://tsupox.github.io/2020/03/02/the-box-from-a4-paper/"/>
-    <id>http://tsupox.github.io/2020/03/02/the-box-from-a4-paper/</id>
+    <link href="http://tsupox.github.io/the-box-from-a4-paper/"/>
+    <id>http://tsupox.github.io/the-box-from-a4-paper/</id>
     <published>2020-03-02T14:10:00.000Z</published>
-    <updated>2021-04-13T16:32:19.233Z</updated>
+    <updated>2021-04-17T09:17:02.790Z</updated>
     
     <content type="html"><![CDATA[<p>A4の紙でつくる、簡易ゴミ箱です。</p><div class="video-container"><iframe src="https://www.youtube.com/embed/HBlvppde3q4" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
     
@@ -214,10 +244,10 @@
   
   <entry>
     <title>LINEスタンプ ぷりんすマメ野郎</title>
-    <link href="http://tsupox.github.io/2020/03/02/line-toumyoun/"/>
-    <id>http://tsupox.github.io/2020/03/02/line-toumyoun/</id>
+    <link href="http://tsupox.github.io/line-toumyoun/"/>
+    <id>http://tsupox.github.io/line-toumyoun/</id>
     <published>2020-03-02T14:00:00.000Z</published>
-    <updated>2021-04-13T16:40:34.028Z</updated>
+    <updated>2021-04-17T09:16:52.524Z</updated>
     
     <content type="html"><![CDATA[<p>初めてのLINEスタンプ。</p><p>この子の名前は「とうみょうん」と言います。<br>頭に豆苗が生えてます。</p><blockquote><p><a href="https://store.line.me/stickershop/product/1102137/ja">https://store.line.me/stickershop/product/1102137/ja</a><br>頭に豆苗を生やした「とうみょうん」君です。こんな彼も彼の王国の王子様。そんな彼がちょっと一言モノ申す。ちなみに豆苗は着脱式。</p></blockquote><p>王国の王子様…？　着脱式…？　そういやそんな設定ありましたね（汗）</p><p>自分でもすごい名前つけたなと思います。<br>ネーミングセンスはないです（これはつけてもらったんだけど。）</p><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「ぷりんすマメ野郎」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/1102137/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/1102137/ja">https://store.line.me/stickershop/product/1102137/ja</a></p>]]></content>
     
@@ -241,10 +271,10 @@
   
   <entry>
     <title>LINEスタンプ さいとうさん in マラウイ（チェワ語＆トゥンブカ語）</title>
-    <link href="http://tsupox.github.io/2020/03/01/line-saito-chichewa/"/>
-    <id>http://tsupox.github.io/2020/03/01/line-saito-chichewa/</id>
+    <link href="http://tsupox.github.io/line-saito-chichewa/"/>
+    <id>http://tsupox.github.io/line-saito-chichewa/</id>
     <published>2020-03-01T14:10:00.000Z</published>
-    <updated>2021-04-14T16:40:15.327Z</updated>
+    <updated>2021-04-17T09:16:40.049Z</updated>
     
     <content type="html"><![CDATA[<p>マラウイの現地語であるチェワ語と、マラウイ北部で話される現地語トゥンブカ語のセット。<br>Whatsapp のスタンプも同時に配布開始。（現在Androidのみ）</p><p>The LINE stickers set for Chichewa; the local language of Malawi and Chitumbuka; the local language of northern part of Malawi.<br>Whatsapp stickers set is also available at the same time.</p><blockquote><p>マラウイ到着後の現地語研修中に思いついたため、あまり実用的でない単語とかも入ってます。<br>また、どうやらこの子、一部には「さいとうさん」じゃなくて「Zikomo くん（ジコモくん）と呼ばれている様子…</p></blockquote><h3 id="■-Lineスタンプ"><a href="#■-Lineスタンプ" class="headerlink" title="■ Lineスタンプ"></a>■ Lineスタンプ</h3><p>「さいとうさん in マラウイ」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/5641453/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/5641453/ja">https://store.line.me/stickershop/product/5641453/ja</a></p><h3 id="■-Whatsappスタンプ"><a href="#■-Whatsappスタンプ" class="headerlink" title="■ Whatsappスタンプ"></a>■ Whatsappスタンプ</h3><p>「さいとうさん in Malawi - Stickers for WhatsApp」<br>ダウンロード （Androidのみ）<br><a href="https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp">https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&amp;hl=ja_jp</a></p><p><a href='https://play.google.com/store/apps/details?id=com.tsupotsupo.stickerapp&hl=ja_jp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Google Play で手に入れよう' src='https://play.google.com/intl/ja/badges/static/images/badges/ja_badge_web_generic.png' style="width:200px" /></a></p>]]></content>
     
@@ -276,10 +306,10 @@
   
   <entry>
     <title>LINE スタンプ さいとうさん（心の声）</title>
-    <link href="http://tsupox.github.io/2020/03/01/line-saito/"/>
-    <id>http://tsupox.github.io/2020/03/01/line-saito/</id>
+    <link href="http://tsupox.github.io/line-saito/"/>
+    <id>http://tsupox.github.io/line-saito/</id>
     <published>2020-03-01T14:00:00.000Z</published>
-    <updated>2021-04-13T16:38:10.812Z</updated>
+    <updated>2021-04-17T09:16:47.873Z</updated>
     
     <content type="html"><![CDATA[<p>さいとうさん LINE スタンプ第 1 段。<br>このころはまだ表情がそんなになく、顔は四角かった。</p><p>「さいとうさん（心の声）」<br>詳細・購入は <a href="https://store.line.me/stickershop/product/1419413/ja">こちら</a> から<br><a href="https://store.line.me/stickershop/product/1419413/ja">https://store.line.me/stickershop/product/1419413/ja</a></p>]]></content>
     

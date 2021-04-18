@@ -25,6 +25,21 @@
 			width: calc(#{(100% / 3)} - #{$gutter * 1});
 			margin: $gutter 0 0 $gutter;
 
+
+			> .post-image {
+				@include vendor('transition', 'transform #{$duration} #{$ease}');
+				position: relative;
+				display: block;
+				width: 100%;
+				border-radius: _size(border-radius);
+				overflow: hidden;
+
+				img {
+					display: block;
+					width: 100%;
+				}
+			}
+
 			> .image {
 				@include vendor('transition', 'transform #{$duration} #{$ease}');
 				position: relative;

@@ -1,10 +1,13 @@
 ---
 title: LINEスタンプ　イロトリドリ
 date: 2020-03-03 23:00:00
+# category:
+#     - LINEスタンプ
 tags:
     - LINEスタンプ
 cover_index: "/images/line-irotoridori/line-irotoridori-main.png"
 cover_detail: "/images/line-irotoridori/line-irotoridori.png"
+# sitemap: false
 ---
 
 「ありがとう」「OK」「よろしく」「YES」だけを集めた、色んな絵柄のスタンプセット。

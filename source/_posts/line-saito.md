@@ -1,11 +1,15 @@
 ---
 title: LINE スタンプ さいとうさん（心の声）
 date: 2020-03-01 23:00:00
+# category:
+#     - LINEスタンプ
+#     - さいとうさん
 tags:
     - LINEスタンプ
     - さいとうさん
 cover_index: "/images/line-saito/line-saito-main.png"
 cover_detail: "/images/line-saito/line-saito.png"
+# sitemap: false
 ---
 
 さいとうさん LINE スタンプ第 1 段。

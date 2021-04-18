@@ -1,6 +1,10 @@
 ---
 title: LINEスタンプ さいとーさんアフリカまったり生活
 date: 2020-03-04 23:20:00
+category:
+#     - LINEスタンプ
+#     - さいとうさん
+#     - マラウイ(Malawi)
 tags:
     - LINEスタンプ
     - さいとうさん
@@ -8,6 +12,7 @@ tags:
     - アフリカ(Africa)
 cover_index: "/images/line-saito-africa/line-saito-africa-main.png"
 cover_detail: "/images/line-saito-africa/line-saito-africa.png"
+# sitemap: false
 ---
 
 さいとうさんもアフリカ生活になれてきたようで、

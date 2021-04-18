@@ -1,6 +1,10 @@
 ---
 title: LINEスタンプ さいとうさん in マラウイ２（チェワ語＆トゥンブカ語）
 date: 2020-03-04 23:10:00
+# category:
+#     - LINEスタンプ
+#     - さいとうさん
+#     - マラウイ(Malawi)
 tags:
     - LINEスタンプ
     - さいとうさん
@@ -11,6 +15,7 @@ tags:
     - Zikomo
 cover_index: "/images/line-saito-chichewa2/line-saito-chichewa2-main.png"
 cover_detail: "/images/line-saito-chichewa2/line-saito-chichewa2.png"
+# sitemap: false
 ---
 
 さいとうさん in マラウイ 第2段。

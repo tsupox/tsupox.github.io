@@ -1,12 +1,16 @@
 ---
 title: LINEスタンプ　かとうさん（心の声）
 date: 2020-03-04 23:00:00
+# category:
+#     - LINEスタンプ
+#     - さいとうさん
 tags:
     - LINEスタンプ
     - さいとうさん
     - かとうさん
 cover_index: "/images/line-kato/line-kato-main.png"
 cover_detail: "/images/line-kato/line-kato.png"
+# sitemap: false
 ---
 
 さいとうさんシリーズ、さいとうさんの彼女/よき友の「かとうさん」です。

@@ -1,11 +1,14 @@
 ---
 title: LINEスタンプ ぷりんすマメ野郎
 date: 2020-03-02 23:00:00
+# category:
+#     - LINEスタンプ
 tags:
     - LINEスタンプ
     - とうみょうん
 cover_index: "/images/line-toumyoun/line-toumyoun-main.png"
 cover_detail: "/images/line-toumyoun/line-toumyoun.png"
+# sitemap: false
 ---
 
 初めてのLINEスタンプ。

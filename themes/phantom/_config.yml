@@ -2,16 +2,20 @@
 menu:
   Home: /
   Archives: /archives
+  Lineスタンプ: /tags/LINEスタンプ
+  マラウイ(Malawi): /tags/マラウイ-Malawi
+  折り紙: /tags/折り紙
+  お絵かき: /tags/お絵かき
   # About: /about.html
 
 # Logo Image Source
 logo_src: /images/tsupo.svg
 
 # Theme Main Subtitle
-subtitle_main: 
+subtitle_main:
 
 # Theme Secondary subtitle
-susbtitle_secondary: 
+susbtitle_secondary:
 
 # Footer About Section
 about_footer: tsupo 作品おきばです。よしなに。
@@ -23,7 +27,7 @@ default_post_title: Untitled
 default_cover_index: "http://placehold.it/450x450"
 
 # Default post cover index page (Optional)
-default_cover_detail: 
+default_cover_detail:
 
 # Show Dates for posts and pages
 show_dates: true
@@ -31,7 +35,7 @@ show_dates: true
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: 
+  disqus_shortname:
   # Facebook comments
   facebook:
     appid:
@@ -43,12 +47,12 @@ google_analytics:
 
 # Social Accounts
 twitter_url: https://twitter.com/tsupopic
-facebook_url: 
-instagram_url: 
-dribble_url: 
+facebook_url:
+instagram_url:
+dribble_url:
 github_url: https://github.com/tsupox
-googleplus_url: 
-behance_url: 
-fivehundredpx_url: 
+googleplus_url:
+behance_url:
+fivehundredpx_url:
 email_url: \#
-rss_url: 
+rss_url:

@@ -10,7 +10,7 @@ tags:
     - アフリカ(Africa)
     - お絵かき
     - マラウイあるある
-cover_index: "/images/malawi-aruaru/malawi-aruaru-008.png"
+cover_index: "/images/malawi-aruaru/malawi-aruaru-001.png"
 # cover_detail: "/images/malawi-aruaru/malawi-aruaru-001.png"
 # sitemap: false
 ---
@@ -40,3 +40,10 @@ cover_index: "/images/malawi-aruaru/malawi-aruaru-008.png"
     <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-019.png"></span></article>
     <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-020.png"></span></article>
 </div>
+
+
+---
+
+### Related Post
+- {% post_link malawi-aruaru2 %}
+- {% post_link malawi-aruaru3 %}

@@ -3,11 +3,11 @@
   <title>Tsupo works</title>
   
   <subtitle>つぽのなんやあれこれ</subtitle>
-  <link href="http://tsupox.github.io/atom.xml" rel="self"/>
+  <link href="https://tsupox.github.io/atom.xml" rel="self"/>
   
-  <link href="http://tsupox.github.io/"/>
+  <link href="https://tsupox.github.io/"/>
   <updated>2021-04-17T09:17:05.870Z</updated>
-  <id>http://tsupox.github.io/</id>
+  <id>https://tsupox.github.io/</id>
   
   <author>
     <name>つぽ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Welcome</title>
-    <link href="http://tsupox.github.io/welcome/"/>
-    <id>http://tsupox.github.io/welcome/</id>
+    <link href="https://tsupox.github.io/welcome/"/>
+    <id>https://tsupox.github.io/welcome/</id>
     <published>2021-04-04T10:18:12.000Z</published>
     <updated>2021-04-17T09:17:05.870Z</updated>
     
@@ -34,20 +34,109 @@
     
     
     
-    <category term="test" scheme="http://tsupox.github.io/tags/test/"/>
+    <category term="test" scheme="https://tsupox.github.io/tags/test/"/>
     
-    <category term="test2" scheme="http://tsupox.github.io/tags/test2/"/>
+    <category term="test2" scheme="https://tsupox.github.io/tags/test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>マジックローズキューブユニット</title>
+    <link href="https://tsupox.github.io/origami-magic-rose-cube-module/"/>
+    <id>https://tsupox.github.io/origami-magic-rose-cube-module/</id>
+    <published>2020-03-16T14:00:00.000Z</published>
+    <updated>2021-04-19T14:27:15.189Z</updated>
+    
+    <content type="html"><![CDATA[<p>マジックローズキューブ (magic rose cube) という、キューブだけどローズに変身！という折り紙を作るためのユニットです。</p><p>この折り方のユニットを作ってブロックを作ると見た目がきれいです。<br>（動画サムネイルのソーマキューブ）<br>こちらも作り方はまた今度にでも。</p><div class="video-container"><iframe src="https://www.youtube.com/embed/AEDqV4I0B78" frameborder="0" loading="lazy" allowfullscreen></iframe></div><hr><h3 id="必要ユニット数早見表"><a href="#必要ユニット数早見表" class="headerlink" title="必要ユニット数早見表"></a>必要ユニット数早見表</h3><table><thead><tr><th>種類</th><th align="center">必要なユニット数</th></tr></thead><tbody><tr><td>マジックローズキューブ</td><td align="center">6</td></tr><tr><td>ソーマキューブ</td><td align="center">各 18 ユニット × 6<br>14 ユニット × 1<br>計 122 ユニット</td></tr></tbody></table><h3 id="■-YouTube-チャンネル-tsupo-chanel-のご紹介"><a href="#■-YouTube-チャンネル-tsupo-chanel-のご紹介" class="headerlink" title="■ YouTube チャンネル [ tsupo chanel ] のご紹介"></a>■ YouTube チャンネル [ <a href="https://www.youtube.com/channel/UCCQD7km8Tg4a-eCxBw6Hgug">tsupo chanel</a> ] のご紹介</h3><p><a href="https://www.youtube.com/channel/UCCQD7km8Tg4a-eCxBw6Hgug"><img src="/images/tsupo_chanel.svg" alt="tsupo chanel"></a><br> <a href="https://www.youtube.com/channel/UCCQD7km8Tg4a-eCxBw6Hgug">tsupo chanel</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;マジックローズキューブ (magic rose cube) という、キューブだけどローズに変身！という折り紙を作るためのユニットです。&lt;/p&gt;
+&lt;p&gt;この折り方のユニットを作ってブロックを作ると見た目がきれいです。&lt;br&gt;（動画サムネイルのソーマキューブ）&lt;br&gt;こちらも作</summary>
+      
+    
+    
+    
+    
+    <category term="つぽチャネル" scheme="https://tsupox.github.io/tags/%E3%81%A4%E3%81%BD%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB/"/>
+    
+    <category term="折り紙" scheme="https://tsupox.github.io/tags/%E6%8A%98%E3%82%8A%E7%B4%99/"/>
+    
+    <category term="ユニット折り紙" scheme="https://tsupox.github.io/tags/%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E6%8A%98%E3%82%8A%E7%B4%99/"/>
+    
+    <category term="マジックローズキューブユニット" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>マラウイあるある Vol.41-60</title>
+    <link href="https://tsupox.github.io/malawi-aruaru3/"/>
+    <id>https://tsupox.github.io/malawi-aruaru3/</id>
+    <published>2020-03-09T14:20:00.000Z</published>
+    <updated>2021-04-19T14:20:14.281Z</updated>
+    
+    <content type="html"><![CDATA[<p>毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。その 2。</p><div class="tiles">    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-041.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-042.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-043.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-044.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-045.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-046.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-046-omake1.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-046-omake2.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-047.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-048.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-049.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-050.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-051.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-052.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-053.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-054.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-055.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-056.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-057.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-058.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-059.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-060.png"></span></article></div><hr><h3 id="Related-Post"><a href="#Related-Post" class="headerlink" title="Related Post"></a>Related Post</h3><ul><li><a href="/malawi-aruaru1/" title="マラウイあるある Vol.1-20">マラウイあるある Vol.1-20</a></li><li><a href="/malawi-aruaru2/" title="マラウイあるある Vol.21-40">マラウイあるある Vol.21-40</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。その 2。&lt;/p&gt;
+&lt;div class=&quot;tiles&quot;&gt;
+    &lt;article&gt;&lt;span class=&quot;post-image&quot;&gt;&lt;img src=&quot;/images/malawi-aruaru/malawi-</summary>
+      
+    
+    
+    
+    
+    <category term="マラウイ(Malawi)" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    
+    <category term="アフリカ(Africa)" scheme="https://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    
+    <category term="お絵かき" scheme="https://tsupox.github.io/tags/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D/"/>
+    
+    <category term="マラウイあるある" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>マラウイあるある Vol.21-40</title>
+    <link href="https://tsupox.github.io/malawi-aruaru2/"/>
+    <id>https://tsupox.github.io/malawi-aruaru2/</id>
+    <published>2020-03-09T14:10:00.000Z</published>
+    <updated>2021-04-19T14:19:37.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。その 2。</p><div class="tiles">    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-021.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-022.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-023.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-024.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-025.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-026.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-027.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-027-2.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-028.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-029.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-030.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-031.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-032.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-033.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-034.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-035.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-036.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-037.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-038.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-039.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-040.png"></span></article></div><hr><h3 id="Related-Post"><a href="#Related-Post" class="headerlink" title="Related Post"></a>Related Post</h3><ul><li><a href="/malawi-aruaru1/" title="マラウイあるある Vol.1-20">マラウイあるある Vol.1-20</a></li><li><a href="/malawi-aruaru3/" title="マラウイあるある Vol.41-60">マラウイあるある Vol.41-60</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。その 2。&lt;/p&gt;
+&lt;div class=&quot;tiles&quot;&gt;
+    &lt;article&gt;&lt;span class=&quot;post-image&quot;&gt;&lt;img src=&quot;/images/malawi-aruaru/malawi-</summary>
+      
+    
+    
+    
+    
+    <category term="マラウイ(Malawi)" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    
+    <category term="アフリカ(Africa)" scheme="https://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    
+    <category term="お絵かき" scheme="https://tsupox.github.io/tags/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D/"/>
+    
+    <category term="マラウイあるある" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B/"/>
     
   </entry>
   
   <entry>
     <title>マラウイあるある Vol.1-20</title>
-    <link href="http://tsupox.github.io/malawi-aruaru1/"/>
-    <id>http://tsupox.github.io/malawi-aruaru1/</id>
+    <link href="https://tsupox.github.io/malawi-aruaru1/"/>
+    <id>https://tsupox.github.io/malawi-aruaru1/</id>
     <published>2020-03-09T14:00:00.000Z</published>
-    <updated>2021-04-18T17:18:02.133Z</updated>
+    <updated>2021-04-19T14:19:46.452Z</updated>
     
-    <content type="html"><![CDATA[<p>毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。</p><div class="tiles">    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-001.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-002.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-003.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-003-omake.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-004.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-005.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-006.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-007.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-008.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-009.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-010.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-011.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-012.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-013.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-014.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-015.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-016.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-017.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-018.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-019.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-020.png"></span></article></div>]]></content>
+    <content type="html"><![CDATA[<p>毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。</p><div class="tiles">    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-001.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-002.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-003.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-003-omake.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-004.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-005.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-006.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-007.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-008.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-009.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-010.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-011.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-012.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-013.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-014.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-015.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-016.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-017.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-018.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-019.png"></span></article>    <article><span class="post-image"><img src="/images/malawi-aruaru/malawi-aruaru-020.png"></span></article></div><hr><h3 id="Related-Post"><a href="#Related-Post" class="headerlink" title="Related Post"></a>Related Post</h3><ul><li><a href="/malawi-aruaru2/" title="マラウイあるある Vol.21-40">マラウイあるある Vol.21-40</a></li><li><a href="/malawi-aruaru3/" title="マラウイあるある Vol.41-60">マラウイあるある Vol.41-60</a></li></ul>]]></content>
     
     
       
@@ -60,20 +149,20 @@
     
     
     
-    <category term="マラウイ(Malawi)" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    <category term="マラウイ(Malawi)" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
     
-    <category term="アフリカ(Africa)" scheme="http://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    <category term="アフリカ(Africa)" scheme="https://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
     
-    <category term="お絵かき" scheme="http://tsupox.github.io/tags/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D/"/>
+    <category term="お絵かき" scheme="https://tsupox.github.io/tags/%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D/"/>
     
-    <category term="マラウイあるある" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B/"/>
+    <category term="マラウイあるある" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4%E3%81%82%E3%82%8B%E3%81%82%E3%82%8B/"/>
     
   </entry>
   
   <entry>
     <title>そのべ式ユニット（そのべ式ユニット）</title>
-    <link href="http://tsupox.github.io/origami-sonobe-module/"/>
-    <id>http://tsupox.github.io/origami-sonobe-module/</id>
+    <link href="https://tsupox.github.io/origami-sonobe-module/"/>
+    <id>https://tsupox.github.io/origami-sonobe-module/</id>
     <published>2020-03-06T14:00:00.000Z</published>
     <updated>2021-04-17T09:16:56.081Z</updated>
     
@@ -89,20 +178,20 @@
     
     
     
-    <category term="つぽチャネル" scheme="http://tsupox.github.io/tags/%E3%81%A4%E3%81%BD%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB/"/>
+    <category term="つぽチャネル" scheme="https://tsupox.github.io/tags/%E3%81%A4%E3%81%BD%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB/"/>
     
-    <category term="折り紙" scheme="http://tsupox.github.io/tags/%E6%8A%98%E3%82%8A%E7%B4%99/"/>
+    <category term="折り紙" scheme="https://tsupox.github.io/tags/%E6%8A%98%E3%82%8A%E7%B4%99/"/>
     
-    <category term="ユニット折り紙" scheme="http://tsupox.github.io/tags/%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E6%8A%98%E3%82%8A%E7%B4%99/"/>
+    <category term="ユニット折り紙" scheme="https://tsupox.github.io/tags/%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E6%8A%98%E3%82%8A%E7%B4%99/"/>
     
-    <category term="そのべ式" scheme="http://tsupox.github.io/tags/%E3%81%9D%E3%81%AE%E3%81%B9%E5%BC%8F/"/>
+    <category term="そのべ式" scheme="https://tsupox.github.io/tags/%E3%81%9D%E3%81%AE%E3%81%B9%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>LINEスタンプ さいとーさんアフリカまったり生活</title>
-    <link href="http://tsupox.github.io/line-saito-africa/"/>
-    <id>http://tsupox.github.io/line-saito-africa/</id>
+    <link href="https://tsupox.github.io/line-saito-africa/"/>
+    <id>https://tsupox.github.io/line-saito-africa/</id>
     <published>2020-03-04T14:20:00.000Z</published>
     <updated>2021-04-17T09:16:30.567Z</updated>
     
@@ -118,20 +207,20 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
-    <category term="さいとうさん" scheme="http://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
+    <category term="さいとうさん" scheme="https://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
     
-    <category term="マラウイ(Malawi)" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    <category term="マラウイ(Malawi)" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
     
-    <category term="アフリカ(Africa)" scheme="http://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    <category term="アフリカ(Africa)" scheme="https://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
     
   </entry>
   
   <entry>
     <title>LINEスタンプ さいとうさん in マラウイ２（チェワ語＆トゥンブカ語）</title>
-    <link href="http://tsupox.github.io/line-saito-chichewa2/"/>
-    <id>http://tsupox.github.io/line-saito-chichewa2/</id>
+    <link href="https://tsupox.github.io/line-saito-chichewa2/"/>
+    <id>https://tsupox.github.io/line-saito-chichewa2/</id>
     <published>2020-03-04T14:10:00.000Z</published>
     <updated>2021-04-17T09:16:44.085Z</updated>
     
@@ -148,26 +237,26 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
-    <category term="さいとうさん" scheme="http://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
+    <category term="さいとうさん" scheme="https://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
     
-    <category term="マラウイ(Malawi)" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    <category term="マラウイ(Malawi)" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
     
-    <category term="アフリカ(Africa)" scheme="http://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    <category term="アフリカ(Africa)" scheme="https://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
     
-    <category term="チェワ語" scheme="http://tsupox.github.io/tags/%E3%83%81%E3%82%A7%E3%83%AF%E8%AA%9E/"/>
+    <category term="チェワ語" scheme="https://tsupox.github.io/tags/%E3%83%81%E3%82%A7%E3%83%AF%E8%AA%9E/"/>
     
-    <category term="トゥンブカ語" scheme="http://tsupox.github.io/tags/%E3%83%88%E3%82%A5%E3%83%B3%E3%83%96%E3%82%AB%E8%AA%9E/"/>
+    <category term="トゥンブカ語" scheme="https://tsupox.github.io/tags/%E3%83%88%E3%82%A5%E3%83%B3%E3%83%96%E3%82%AB%E8%AA%9E/"/>
     
-    <category term="Zikomo" scheme="http://tsupox.github.io/tags/Zikomo/"/>
+    <category term="Zikomo" scheme="https://tsupox.github.io/tags/Zikomo/"/>
     
   </entry>
   
   <entry>
     <title>LINEスタンプ　かとうさん（心の声）</title>
-    <link href="http://tsupox.github.io/line-kato/"/>
-    <id>http://tsupox.github.io/line-kato/</id>
+    <link href="https://tsupox.github.io/line-kato/"/>
+    <id>https://tsupox.github.io/line-kato/</id>
     <published>2020-03-04T14:00:00.000Z</published>
     <updated>2021-04-17T09:16:23.184Z</updated>
     
@@ -183,18 +272,18 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
-    <category term="さいとうさん" scheme="http://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
+    <category term="さいとうさん" scheme="https://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
     
-    <category term="かとうさん" scheme="http://tsupox.github.io/tags/%E3%81%8B%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
+    <category term="かとうさん" scheme="https://tsupox.github.io/tags/%E3%81%8B%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
     
   </entry>
   
   <entry>
     <title>LINEスタンプ　イロトリドリ</title>
-    <link href="http://tsupox.github.io/line-irotoridori/"/>
-    <id>http://tsupox.github.io/line-irotoridori/</id>
+    <link href="https://tsupox.github.io/line-irotoridori/"/>
+    <id>https://tsupox.github.io/line-irotoridori/</id>
     <published>2020-03-03T14:00:00.000Z</published>
     <updated>2021-04-17T09:16:14.529Z</updated>
     
@@ -211,14 +300,14 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
   </entry>
   
   <entry>
     <title>A4で作る箱</title>
-    <link href="http://tsupox.github.io/the-box-from-a4-paper/"/>
-    <id>http://tsupox.github.io/the-box-from-a4-paper/</id>
+    <link href="https://tsupox.github.io/the-box-from-a4-paper/"/>
+    <id>https://tsupox.github.io/the-box-from-a4-paper/</id>
     <published>2020-03-02T14:10:00.000Z</published>
     <updated>2021-04-17T09:17:02.790Z</updated>
     
@@ -234,18 +323,18 @@
     
     
     
-    <category term="つぽチャネル" scheme="http://tsupox.github.io/tags/%E3%81%A4%E3%81%BD%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB/"/>
+    <category term="つぽチャネル" scheme="https://tsupox.github.io/tags/%E3%81%A4%E3%81%BD%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB/"/>
     
-    <category term="折り紙" scheme="http://tsupox.github.io/tags/%E6%8A%98%E3%82%8A%E7%B4%99/"/>
+    <category term="折り紙" scheme="https://tsupox.github.io/tags/%E6%8A%98%E3%82%8A%E7%B4%99/"/>
     
-    <category term="箱" scheme="http://tsupox.github.io/tags/%E7%AE%B1/"/>
+    <category term="箱" scheme="https://tsupox.github.io/tags/%E7%AE%B1/"/>
     
   </entry>
   
   <entry>
     <title>LINEスタンプ ぷりんすマメ野郎</title>
-    <link href="http://tsupox.github.io/line-toumyoun/"/>
-    <id>http://tsupox.github.io/line-toumyoun/</id>
+    <link href="https://tsupox.github.io/line-toumyoun/"/>
+    <id>https://tsupox.github.io/line-toumyoun/</id>
     <published>2020-03-02T14:00:00.000Z</published>
     <updated>2021-04-17T09:16:52.524Z</updated>
     
@@ -263,16 +352,16 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
-    <category term="とうみょうん" scheme="http://tsupox.github.io/tags/%E3%81%A8%E3%81%86%E3%81%BF%E3%82%87%E3%81%86%E3%82%93/"/>
+    <category term="とうみょうん" scheme="https://tsupox.github.io/tags/%E3%81%A8%E3%81%86%E3%81%BF%E3%82%87%E3%81%86%E3%82%93/"/>
     
   </entry>
   
   <entry>
     <title>LINEスタンプ さいとうさん in マラウイ（チェワ語＆トゥンブカ語）</title>
-    <link href="http://tsupox.github.io/line-saito-chichewa/"/>
-    <id>http://tsupox.github.io/line-saito-chichewa/</id>
+    <link href="https://tsupox.github.io/line-saito-chichewa/"/>
+    <id>https://tsupox.github.io/line-saito-chichewa/</id>
     <published>2020-03-01T14:10:00.000Z</published>
     <updated>2021-04-17T09:16:40.049Z</updated>
     
@@ -288,26 +377,26 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
-    <category term="さいとうさん" scheme="http://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
+    <category term="さいとうさん" scheme="https://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
     
-    <category term="マラウイ(Malawi)" scheme="http://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
+    <category term="マラウイ(Malawi)" scheme="https://tsupox.github.io/tags/%E3%83%9E%E3%83%A9%E3%82%A6%E3%82%A4-Malawi/"/>
     
-    <category term="アフリカ(Africa)" scheme="http://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
+    <category term="アフリカ(Africa)" scheme="https://tsupox.github.io/tags/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB-Africa/"/>
     
-    <category term="チェワ語" scheme="http://tsupox.github.io/tags/%E3%83%81%E3%82%A7%E3%83%AF%E8%AA%9E/"/>
+    <category term="チェワ語" scheme="https://tsupox.github.io/tags/%E3%83%81%E3%82%A7%E3%83%AF%E8%AA%9E/"/>
     
-    <category term="トゥンブカ語" scheme="http://tsupox.github.io/tags/%E3%83%88%E3%82%A5%E3%83%B3%E3%83%96%E3%82%AB%E8%AA%9E/"/>
+    <category term="トゥンブカ語" scheme="https://tsupox.github.io/tags/%E3%83%88%E3%82%A5%E3%83%B3%E3%83%96%E3%82%AB%E8%AA%9E/"/>
     
-    <category term="Zikomo" scheme="http://tsupox.github.io/tags/Zikomo/"/>
+    <category term="Zikomo" scheme="https://tsupox.github.io/tags/Zikomo/"/>
     
   </entry>
   
   <entry>
     <title>LINE スタンプ さいとうさん（心の声）</title>
-    <link href="http://tsupox.github.io/line-saito/"/>
-    <id>http://tsupox.github.io/line-saito/</id>
+    <link href="https://tsupox.github.io/line-saito/"/>
+    <id>https://tsupox.github.io/line-saito/</id>
     <published>2020-03-01T14:00:00.000Z</published>
     <updated>2021-04-17T09:16:47.873Z</updated>
     
@@ -323,9 +412,9 @@
     
     
     
-    <category term="LINEスタンプ" scheme="http://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
+    <category term="LINEスタンプ" scheme="https://tsupox.github.io/tags/LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97/"/>
     
-    <category term="さいとうさん" scheme="http://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
+    <category term="さいとうさん" scheme="https://tsupox.github.io/tags/%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%81%95%E3%82%93/"/>
     
   </entry>
   

@@ -2,22 +2,46 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://tsupox.github.io/</loc>
+        <loc>https://tsupox.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>http://tsupox.github.io/malawi-aruaru1/</loc>
-        <lastmod>2021-04-18T17:18:02.133Z</lastmod>
+        <loc>https://tsupox.github.io/origami-magic-rose-cube-module/</loc>
+        <lastmod>2021-04-19T14:27:15.189Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/welcome/</loc>
+        <loc>https://tsupox.github.io/malawi-aruaru3/</loc>
+        <lastmod>2021-04-19T14:20:14.281Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tsupox.github.io/malawi-aruaru1/</loc>
+        <lastmod>2021-04-19T14:19:46.452Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tsupox.github.io/malawi-aruaru2/</loc>
+        <lastmod>2021-04-19T14:19:37.092Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://tsupox.github.io/welcome/</loc>
         <lastmod>2021-04-17T09:17:05.870Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -25,7 +49,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/the-box-from-a4-paper/</loc>
+        <loc>https://tsupox.github.io/the-box-from-a4-paper/</loc>
         <lastmod>2021-04-17T09:17:02.790Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,7 +57,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/origami-sonobe-module/</loc>
+        <loc>https://tsupox.github.io/origami-sonobe-module/</loc>
         <lastmod>2021-04-17T09:16:56.081Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -41,7 +65,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-toumyoun/</loc>
+        <loc>https://tsupox.github.io/line-toumyoun/</loc>
         <lastmod>2021-04-17T09:16:52.524Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -49,7 +73,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-saito/</loc>
+        <loc>https://tsupox.github.io/line-saito/</loc>
         <lastmod>2021-04-17T09:16:47.873Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,7 +81,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-saito-chichewa2/</loc>
+        <loc>https://tsupox.github.io/line-saito-chichewa2/</loc>
         <lastmod>2021-04-17T09:16:44.085Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -65,7 +89,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-saito-chichewa/</loc>
+        <loc>https://tsupox.github.io/line-saito-chichewa/</loc>
         <lastmod>2021-04-17T09:16:40.049Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,7 +97,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-saito-africa/</loc>
+        <loc>https://tsupox.github.io/line-saito-africa/</loc>
         <lastmod>2021-04-17T09:16:30.567Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -81,7 +105,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-kato/</loc>
+        <loc>https://tsupox.github.io/line-kato/</loc>
         <lastmod>2021-04-17T09:16:23.184Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -89,7 +113,7 @@
     </url>
 
     <url>
-        <loc>http://tsupox.github.io/line-irotoridori/</loc>
+        <loc>https://tsupox.github.io/line-irotoridori/</loc>
         <lastmod>2021-04-17T09:16:14.529Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

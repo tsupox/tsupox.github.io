@@ -1,5 +1,6 @@
 ---
-title: tsupox アイコンシリーズ - 1 - ノーマル (2023 年までに作成したもの)
+title: tsupox アイコンシリーズ - 1 - ノーマル
+subtitle:  (2023 年までに作成したもの)
 date: 2024-09-09 00:11:53
 category:
 #     - tsupoxアイコン
@@ -12,6 +13,10 @@ tags:
 cover_index: "/images/tsupox_icons/tsupox.png"
 # cover_detail: "/images/tsupox_icons/tsupox.png"
 sitemap: true
+# photo:
+#   - images/tsupox_icons/tsupox.png
+#   - images/tsupox_icons/tsupox_colors_blue.png
+#   - images/tsupox_icons/tsupox_colors_orange.png
 ---
 
 私のアイコンシリーズ第一弾は、「ノーマル版」。

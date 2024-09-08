@@ -10,7 +10,7 @@ tags:
     - かとうさん
 cover_index: "/images/line-kato/line-kato-main.png"
 cover_detail: "/images/line-kato/line-kato.png"
-# sitemap: false
+sitemap: true
 ---
 
 さいとうさんシリーズ、さいとうさんの彼女/よき友の「かとうさん」です。

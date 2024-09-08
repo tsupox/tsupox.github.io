@@ -11,7 +11,7 @@ tags:
     - お絵かき
 cover_index: "/images/tsupox_icons/tsupox.png"
 # cover_detail: "/images/tsupox_icons/tsupox.png"
-# sitemap: false
+sitemap: true
 ---
 
 私のアイコンシリーズ第一弾は、「ノーマル版」。
@@ -49,15 +49,17 @@ cover_index: "/images/tsupox_icons/tsupox.png"
     <blockquote>
     会社で一日というか半日限定で使っていた黒色バージョン…出もまたこれにしてもいいかもなぁ。黒、よい。
     </blockquote></article>
+    <article><span class="post-image"><img src="/images/tsupox_icons/tsupox_happy.png"></span>
+    <strong>嬉しい。</strong>
+    <blockquote>
+    めったにない、でれでれうれしいバージョンです。
+    </blockquote></article>
+    <article><span class="post-image"><img src="/images/tsupox_icons/tsupox_angel_cry.png"></span>
+    <strong>死亡…</strong>
+    <blockquote>
+    召されています。
+    </blockquote></article>
 
 </div>
 
 
----
-
-### Related Post
-- {% post_link malawi-aruaru2 %}　&lt;&lt;&lt; 次
-- {% post_link malawi-aruaru3 %}
-- {% post_link malawi-aruaru4 %}
-- {% post_link malawi-aruaru5 %}
-- {% post_link malawi-aruaru6 %}

@@ -13,6 +13,12 @@
                 <% if (theme.twitter_url) { %>
                     <li><a href="<%- theme.twitter_url %>" class="icon style2 fa-twitter" target="_blank" ><span class="label">Twitter</span></a></li>
                 <% } %>
+                <% if (theme.blueskye_url) { %>
+                    <li><a href="<%- theme.blueskye_url %>" class="icon style2 fa-bluesky" target="_blank" ><span class="label">Twitter</span></a></li>
+                <% } %>
+                <% if (theme.threads_url) { %>
+                    <li><a href="<%- theme.threads_url %>" class="icon style2 fa-threads" target="_blank" ><span class="label">Twitter</span></a></li>
+                <% } %>
                 <% if (theme.facebook_url) { %>
                     <li><a href="<%- theme.facebook_url %>" class="icon style2 fa-facebook" target="_blank" ><span class="label">Facebook</span></a></li>
                 <% } %>
@@ -35,7 +41,7 @@
                     <li><a href="<%- theme.fivehundredpx_url %>" class="icon style2 fa-500px" target="_blank" ><span class="label">500px</span></a></li>
                 <% } %>
                 <% if (theme.email_url) { %>
-                    <li><a href="<%- theme.email_url %>" class="icon style2 fa-envelope-o" target="_blank" ><span class="label">Email</span></a></li>
+                    <li><a href="<%- theme.email_url %>" class="icon style2 fa-envelope" target="_blank" ><span class="label">Email</span></a></li>
                 <% } %>
                 <% if (theme.rss_url) { %>
                     <li><a href="<%- theme.rss_url %>" class="icon style2 fa-rss" target="_blank" ><span class="label">RSS</span></a></li>
@@ -43,7 +49,7 @@
             </ul>
         </section>
         <ul class="copyright">
-            <li>&copy; Untitled. All rights reserved</li>
+            <li>&copy; tsupox.com. All rights reserved</li>
             <li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
             <li>Hexo: <a href="http://www.codeblocq.com/" target="_blank">Jonathan Klughertz</a></li>
         </ul>

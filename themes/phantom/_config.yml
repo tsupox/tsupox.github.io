@@ -6,6 +6,10 @@ menu:
   マラウイ(Malawi): /tags/マラウイ-Malawi
   折り紙: /tags/折り紙
   お絵かき: /tags/お絵かき
+  お化け: /tags/おばけ
+  さいとうさん: /tags/さいとうさん
+  # 手書きねこ: /tags/手書きねこ
+  # ネコ: /tags/ネコ
   # About: /about.html
 
 # Logo Image Source
@@ -18,7 +22,7 @@ subtitle_main:
 susbtitle_secondary:
 
 # Footer About Section
-about_footer: tsupo 作品おきばです。よしなに。
+about_footer: tsupo (tsupox/つぽ) 作品おきばです。よしなに。<br/> SNS はありすぎてどれを更新すればいいのか迷走しています。
 
 # Default post title
 default_post_title: Untitled
@@ -47,12 +51,15 @@ google_analytics:
 
 # Social Accounts
 twitter_url: https://twitter.com/tsupopic
+blueskye_url: https://bsky.app/profile/tsupox.bsky.social
+threads_url: https://www.threads.net/@tsupox
 facebook_url:
-instagram_url:
+instagram_url: https://www.instagram.com/tsupox/
 dribble_url:
 github_url: https://github.com/tsupox
 googleplus_url:
 behance_url:
 fivehundredpx_url:
-email_url: \#
+# email_url: \#
+email_url:
 rss_url:

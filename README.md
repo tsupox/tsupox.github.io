@@ -16,6 +16,7 @@ hexo server
 
 ```
 hexo new <article name>
+hexo deploy
 ```
 
 ```

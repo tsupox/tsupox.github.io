@@ -153,9 +153,9 @@ deploy:
 
 
 # style settings
-node_sass:
+sass:
   debug: false
-  outputStyle: nested
+  outputStyle: expanded
   # outputStyle: compressed
   precision: 5
   sourceComments: false

@@ -1,11 +1,12 @@
 ---
 title: Welcome
-date: 2021-04-04 19:18:12
+date: 2040-01-01 00:00:00
 # category:
 #     - LINEスタンプ
 tags:
-  - test
-  - test2
+  - Welcome
+  - お絵かき
+  - 手書きねこ
 cover_index: /images/neko-king.png
 # cover_detail: /images/neko-king.png
 # sitemap: false
@@ -13,8 +14,6 @@ cover_index: /images/neko-king.png
 
 ## Welcome to tsupox.com!
 
-こちらはテスト投稿です。
-改行確認。
+tsupox の作品置き場です。
 
-絵の確認。
 ![](/images/neko-king.png)

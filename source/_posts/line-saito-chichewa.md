@@ -15,7 +15,7 @@ tags:
     - Zikomo
 cover_index: "/images/line-saito-chichewa/line-saito-chichewa-main.png"
 cover_detail: "/images/line-saito-chichewa/line-saito-chichewa.png"
-# sitemap: false
+sitemap: true
 ---
 
 マラウイの現地語であるチェワ語と、マラウイ北部で話される現地語トゥンブカ語のセット。

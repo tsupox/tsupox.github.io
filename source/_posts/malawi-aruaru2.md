@@ -12,7 +12,7 @@ tags:
     - マラウイあるある
 cover_index: "/images/malawi-aruaru/malawi-aruaru-011.png"
 # cover_detail: "/images/malawi-aruaru/malawi-aruaru-001.png"
-# sitemap: false
+sitemap: true
 ---
 
 毎週木曜日に更新していた「つぽ絵マラウイあるある」シリーズ。その 2。

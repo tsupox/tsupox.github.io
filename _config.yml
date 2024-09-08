@@ -13,7 +13,8 @@ timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://tsupox.github.io
+url: https://tsupox.com
+# url: https://tsupox.github.io
 # permalink: :year/:month/:day/:title/
 permalink: :title/
 permalink_defaults:
@@ -139,7 +140,7 @@ theme: phantom
 
 sitemap:
   path: sitemap.xml
-  tag: false
+  tag: true
   category: false
 
 # Deployment

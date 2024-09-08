@@ -15,7 +15,7 @@ tags:
     - Zikomo
 cover_index: "/images/line-saito-chichewa2/line-saito-chichewa2-main.png"
 cover_detail: "/images/line-saito-chichewa2/line-saito-chichewa2.png"
-# sitemap: false
+sitemap: true
 ---
 
 さいとうさん in マラウイ 第2段。

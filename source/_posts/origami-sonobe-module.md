@@ -10,7 +10,7 @@ tags:
     - ユニット折り紙
     - そのべ式
 cover_index: "/images/origami-sonobe-module/origami-sonobe-module.png"
-# sitemap: false
+sitemap: true
 ---
 
 ユニット式折り紙で一番メジャーだと思われる、そのべ式ユニットの折り方。

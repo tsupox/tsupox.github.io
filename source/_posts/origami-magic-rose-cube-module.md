@@ -10,7 +10,7 @@ tags:
     - ユニット折り紙
     - マジックローズキューブユニット
 cover_index: "/images/origami-magic-rose-cube-module/origami-magic-rose-cube-module.png"
-# sitemap: false
+sitemap: true
 ---
 マジックローズキューブ (magic rose cube) という、キューブだけどローズに変身！という折り紙を作るためのユニットです。
 

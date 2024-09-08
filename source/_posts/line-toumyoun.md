@@ -8,7 +8,7 @@ tags:
     - とうみょうん
 cover_index: "/images/line-toumyoun/line-toumyoun-main.png"
 cover_detail: "/images/line-toumyoun/line-toumyoun.png"
-# sitemap: false
+sitemap: true
 ---
 
 初めてのLINEスタンプ。

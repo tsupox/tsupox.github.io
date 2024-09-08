@@ -12,7 +12,7 @@ tags:
     - アフリカ(Africa)
 cover_index: "/images/line-saito-africa/line-saito-africa-main.png"
 cover_detail: "/images/line-saito-africa/line-saito-africa.png"
-# sitemap: false
+sitemap: true
 ---
 
 さいとうさんもアフリカ生活になれてきたようで、

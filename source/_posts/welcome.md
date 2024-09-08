@@ -5,11 +5,11 @@ date: 2040-01-01 00:00:00
 #     - LINEスタンプ
 tags:
   - Welcome
-  - お絵かき
-  - 手書きねこ
+  # - お絵かき
+  # - 手書きねこ
 cover_index: /images/neko-king.png
 # cover_detail: /images/neko-king.png
-# sitemap: false
+sitemap: true
 ---
 
 ## Welcome to tsupox.com!

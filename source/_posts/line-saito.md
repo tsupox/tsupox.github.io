@@ -9,7 +9,7 @@ tags:
     - さいとうさん
 cover_index: "/images/line-saito/line-saito-main.png"
 cover_detail: "/images/line-saito/line-saito.png"
-# sitemap: false
+sitemap: true
 ---
 
 さいとうさん LINE スタンプ第 1 段。

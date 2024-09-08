@@ -7,7 +7,7 @@ tags:
     - LINEスタンプ
 cover_index: "/images/line-irotoridori/line-irotoridori-main.png"
 cover_detail: "/images/line-irotoridori/line-irotoridori.png"
-# sitemap: false
+sitemap: true
 ---
 
 「ありがとう」「OK」「よろしく」「YES」だけを集めた、色んな絵柄のスタンプセット。

@@ -9,7 +9,7 @@ tags:
     - 折り紙
     - 箱
 cover_index: "/images/the-box-from-a4-paper/the-box-from-a4-paper.png"
-# sitemap: false
+sitemap: true
 ---
 
 A4の紙でつくる、簡易ゴミ箱です。

@@ -16,6 +16,8 @@ npm install --save-dev https://github.com/kmuncie/hexo-renderer-sass
 ```
 hexo server
 hexo new <article name>
+hexo new draft <article name>
+hexo new page <article name>
 hexo generate
 hexo deploy
 ```

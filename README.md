@@ -11,11 +11,12 @@ npm install -g hexo
 ```
 npm init
 npm install --save-dev https://github.com/kmuncie/hexo-renderer-sass
-hexo server
 ```
 
 ```
+hexo server
 hexo new <article name>
+hexo generate
 hexo deploy
 ```
 

@@ -11,7 +11,7 @@ tags:
     - おばけ
     - お絵かき
 cover_index: "/images/tsupox_icons/tsupox_202301_1.png"
-cover_detail: "/images/tsupox_icons/tsupox_202301_1.png"
+# cover_detail: "/images/tsupox_icons/tsupox_202301_1.png"
 sitemap: true
 ---
 

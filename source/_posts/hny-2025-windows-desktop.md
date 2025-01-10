@@ -10,7 +10,7 @@ tags:
     - アイコン
     - おばけ
     - お絵かき
-cover_index: "/images/hny-2025-windows-desktop/WindowsDesktopHebi.png"
+cover_index: "/images/hny-2025-windows-desktop/WindowsDesktopHebi_cover.png"
 cover_detail: "/images/hny-2025-windows-desktop/WindowsDesktopHebi.png"
 sitemap: true
 ---

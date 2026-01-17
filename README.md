@@ -23,7 +23,7 @@ hexo deploy
 ```
 
 ```
-git remote add -f git@github.com:tsupox/tsupox_hexo.git
+git remote add -f git@github.com:tsupox/tsupox.github.io.git
 ```
 
 ```

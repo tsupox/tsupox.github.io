@@ -55,3 +55,8 @@ sitemap: true
     </article>
 </div>
 
+
+---
+
+### Related Post
+- {% post_link hny-2026-calendar %}

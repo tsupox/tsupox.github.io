@@ -15,8 +15,41 @@
 <!-- Custom Code -->
 <%- js('js/main.js') %>
 
-<!-- Gallery -->
-<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<!-- Lightbox -->
+<script>
+$(function() {
+  var $overlay = $('<div id="tsupo-lightbox"><img /></div>').appendTo('body');
+  var $img = $overlay.find('img');
+
+  function openLightbox(src) {
+    $img.attr('src', src);
+    $overlay.fadeIn(200);
+  }
+
+  function closeLightbox() {
+    $overlay.fadeOut(200);
+  }
+
+  $('.post-image a[href]').on('click', function(e) {
+    e.preventDefault();
+    openLightbox($(this).attr('href'));
+  });
+
+  $('.post-image img').not('.post-image a img').on('click', function() {
+    openLightbox($(this).attr('src'));
+  }).css('cursor', 'zoom-in');
+
+  $('span.image.main img').on('click', function() {
+    openLightbox($(this).attr('src'));
+  }).css('cursor', 'zoom-in');
+
+  $overlay.on('click', closeLightbox);
+
+  $(document).on('keydown', function(e) {
+    if (e.key === 'Escape') closeLightbox();
+  });
+});
+</script>
 
 <!-- Disqus Comments -->
 <% if (theme.comments && theme.comments.disqus_shortname){ %>

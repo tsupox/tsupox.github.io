@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <!-- Head tag -->
 <head>
@@ -10,13 +10,7 @@
 
     <!--Description-->
     
-    <meta name="description"
-        content="お待たせしました。 2025 年も終わってしまいましたが…私のアイコンシリーズ第五弾は、「2024年の季節モノ」。　一昨年のものです。2023年からもさらに頻度は減ってますが、それでもちょっとずつ変えてっています。
-2024&amp;#x2F;1 - January
-    
-    辰年
-    
-   ">
+    <meta name="description" content="青年海外協力隊としてアフリカのマラウイに滞在したつぽによる、イラストエッセイやオリジナルLINEスタンプの紹介サイト。">
     
 
     <!--Author-->
@@ -34,7 +28,8 @@
 
     <!--Page Cover-->
     
-    <meta property="og:image" content="" />
+    
+    <meta property="og:image" content="https://tsupox.com/images/tsupox_icons/tsupox_202401_1.png" />
     
 
     <!-- Title -->
@@ -71,10 +66,6 @@
 <link rel="stylesheet" href="/sass/ie9.css">
 
     <![endif]-->
-
-    <!-- Gallery -->
-    <link href="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.css" type="text/css"
-        rel="stylesheet" />
 
     <!-- font awesome -->
     <!-- <script src="https://kit.fontawesome.com/4e6843e633.js" crossorigin="anonymous"></script> -->
@@ -391,10 +382,44 @@
 <script src="/js/main.js"></script>
 
 
-<!-- Gallery -->
-<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<!-- Lightbox -->
+<script>
+$(function() {
+  var $overlay = $('<div id="tsupo-lightbox"><img /></div>').appendTo('body');
+  var $img = $overlay.find('img');
+
+  function openLightbox(src) {
+    $img.attr('src', src);
+    $overlay.fadeIn(200);
+  }
+
+  function closeLightbox() {
+    $overlay.fadeOut(200);
+  }
+
+  $('.post-image a[href]').on('click', function(e) {
+    e.preventDefault();
+    openLightbox($(this).attr('href'));
+  });
+
+  $('.post-image img').not('.post-image a img').on('click', function() {
+    openLightbox($(this).attr('src'));
+  }).css('cursor', 'zoom-in');
+
+  $('span.image.main img').on('click', function() {
+    openLightbox($(this).attr('src'));
+  }).css('cursor', 'zoom-in');
+
+  $overlay.on('click', closeLightbox);
+
+  $(document).on('keydown', function(e) {
+    if (e.key === 'Escape') closeLightbox();
+  });
+});
+</script>
 
 <!-- Disqus Comments -->
+
 
 
 </body>
